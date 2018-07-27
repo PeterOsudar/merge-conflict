@@ -10,13 +10,15 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Skatetocat"
-resume_title:                   "Professional Skater"
-resume_contact_email:           "skatetocat@github.com"
-resume_contact_telephone:       "1-(877)-448-4820"
-resume_contact_address:         "San Francisco, California"
-resume_header_contact_info: "San Francisco, California | 1-(877)-448-4820 | skatetocat@github.com"
-resume_header_intro: "<p>Professional Skater, 'nuff said.</p>"
+
+resume_name:                    "Peter Osudar"
+resume_title:                   "Teacher"
+resume_contact_email:           "peter.osudar@ocdsb.ca"
+resume_contact_telephone:       "(613)852-8335"
+resume_contact_address:         "Ottawa, Ontario, Canada"
+resume_header_contact_info: "Ottawa, Ontario, Canada | 1-(613)-852-8335 | peter.osudar@ocdsb.ca"
+resume_header_intro: "<p>Every Problem Tells a Story...(x ⊢ y) ↔ (x ⊨ y) </p>"
+
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
